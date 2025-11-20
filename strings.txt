@@ -1,0 +1,8 @@
+1,ancientartifactsandlegends,arti
+2,hiddenchambersbeneathtemple,zebra
+3,mysteriousmapsofoldworlds,maps
+4,forgottenlegendsoftheruins,ghost
+5,secretpuzzleslockedinrooms,puz
+6,ancientruinsburiedbytime,ent
+7,hiddenmessagesfromexplorers,mess
+8,undergroundpassagestolostcities,gold
